@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <nav style={{
       padding: '15px 30px',
-      backgroundColor: '#0070f3', // Biru khas Next.js
+      backgroundColor: '#0070f3',
       display: 'flex',
       justifyContent: 'center',
       gap: '25px',
